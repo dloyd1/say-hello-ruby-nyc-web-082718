@@ -3,5 +3,3 @@ def say_hello(name)
 end
 
 "Hello Ruby Programmer!"
-
-
